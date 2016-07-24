@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/JSPApplication/src/java/com/leapfrog/jspap/productdao/ProductDAO.java</file>
+            <file>file:/E:/JSPApplication/web/index.jsp</file>
+            <file>file:/E:/JSPApplication/src/java/com/leapfrog/jspapp/productdao/impl/ProductDAOImpl.java</file>
+            <file>file:/E:/JSPApplication/web/add.jsp</file>
+            <file>file:/E:/JSPApplication/src/java/com/leapfrog/jspapp/entity/Product.java</file>
+            <file>file:/E:/JSPApplication/web/save.jsp</file>
+            <file>file:/E:/JSPApplication/src/java/com/leapfrog/jspap/util/DBConnection.java</file>
+        </group>
+    </open-files>
+</project-private>
